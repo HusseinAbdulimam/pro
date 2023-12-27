@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cef9fe3b.css",
+    "main.js": "/static/js/main.bdc6feaa.js",
+    "static/media/Hussein.png": "/static/media/Hussein.9d14173987614e391d75.png",
+    "static/media/about.jpg": "/static/media/about.2dee3a29b4a7494511ce.jpg",
+    "static/media/work.jpg": "/static/media/work.205ceffdb1cfcc61fbfe.jpg",
+    "index.html": "/index.html",
+    "main.cef9fe3b.css.map": "/static/css/main.cef9fe3b.css.map",
+    "main.bdc6feaa.js.map": "/static/js/main.bdc6feaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef9fe3b.css",
+    "static/js/main.bdc6feaa.js"
+  ]
+}
